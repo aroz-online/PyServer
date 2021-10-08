@@ -1,0 +1,15 @@
+{
+    "Name": "PyServer",
+	"Desc": "A basic example for showing how to bridge Python web server to ArozOS",
+	"Group": "Development",
+	"IconPath": "PyServer/img/small_icon.png",
+	"Version": "1.0",
+	"StartDir": "PyServer/index.html",
+	"SupportFW": true,
+	"LaunchFWDir": "PyServer/index.html",
+	"InitFWSize": [475, 550],
+	"SupportEmb": true,
+	"LaunchEmb": "PyServer/embedded.html",
+	"InitEmbSize": [360, 240],
+	"SupportedExt": [".py"]
+}
